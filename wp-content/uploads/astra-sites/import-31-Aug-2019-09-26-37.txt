@@ -1,0 +1,341 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Linux
+Software 		: LiteSpeed
+MySQL version 		: 5.5.5
+XML Reader 		: Yes
+PHP Version 		: 7.0.33
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 20M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 20 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 09:35:16 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Inserted WP Form 11
+Imported Customizer Settings {"astra-settings":{"astra-addon-auto-version":"1.8.7","theme-auto-version":"1.8.7","ast-header-retina-logo":"https:\/\/websitedemos.net\/alex01\/wp-content\/uploads\/sites\/173\/2018\/02\/logo-retina-free-img.png","display-site-title":false,"site-content-layout":"boxed-container","single-page-content-layout":"default","header-layouts":"header-main-layout-1","header-main-sep-color":"#fde6f1","footer-sml-layout":"footer-sml-layout-2","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | Powered by [site_title]","footer-sml-section-2":"custom","footer-sml-section-2-credit":"Privacy &amp; Legal","footer-sml-divider-color":"#fde6f1","link-color":"#ee0979","text-color":"#000000","site-layout-outside-bg-color":"#ffffff","link-h-color":"#ff6a00","body-font-family":"'Poppins', sans-serif","body-font-weight":"400","headings-font-family":"'Poppins', sans-serif","headings-font-weight":"700","headings-text-transform":"none","font-size-h1":{"desktop":"100","tablet":"70","mobile":"45","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"37","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"28","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h4":{"desktop":"21","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"14","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-family-primary-menu":"'Poppins', sans-serif","font-weight-primary-menu":"700","text-transform-primary-menu":"capitalize","font-size-primary-menu":{"desktop":"14","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-family-h1":"'Amatic SC', handwriting","font-weight-h1":"700","text-transform-h1":"uppercase","font-family-h2":"'Poppins', sans-serif","font-weight-h2":"700","font-family-h3":"'Poppins', sans-serif","font-weight-h3":"700","font-family-h4":"'Poppins', sans-serif","font-weight-h4":"700","text-transform-h2":"uppercase","font-family-h5":"'Poppins', sans-serif","font-weight-h5":"700","font-family-h6":"'Poppins', sans-serif","font-weight-h6":"700","text-transform-h6":"uppercase","font-family-footer-content":"'Poppins', sans-serif","font-weight-footer-content":"400","text-transform-footer-content":"none","font-size-footer-content":{"desktop":"15","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"footer-color":"#7a7a7a","footer-link-color":"#7a7a7a","footer-link-h-color":"#ee0979","footer-bg-color":"#ffffff","button-color":"#ffffff","button-bg-color":"#ee0979","button-radius":50,"button-v-padding":17,"button-h-padding":60,"above-header-merge-menu":true,"below-header-merge-menu":true,"header-main-rt-section":"button","header-main-rt-section-html":"","font-family-button":"'Poppins', sans-serif","font-weight-button":"700","text-transform-button":"uppercase","font-size-button":{"desktop":"14","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"theme-color":"#ee0979","site-sidebar-layout":"no-sidebar","header-bg-obj":{"background-color":""},"content-bg-obj":{"background-color":"#ffffff"},"footer-adv-bg-obj":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"footer-bg-obj":{"background-color":"#ffffff","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"site-layout-outside-bg-obj":{"background-color":"#f7f7f7","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"header-bg-obj-responsive":{"desktop":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"}},"above-header-bg-obj-responsive":{"desktop":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"}},"below-header-bg-obj-responsive":{"desktop":{"background-color":"#414042","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"}},"primary-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-menu-h-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-menu-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-menu-a-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-h-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-a-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-link-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-link-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-bg-color":{"desktop":"","tablet":"","mobile":""},"above-header-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-h-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-active-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-bg-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-active-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-text-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-link-hover-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-link-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-menu-text-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-menu-text-hover-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-menu-bg-hover-color-responsive":{"desktop":"#575757","tablet":"","mobile":""},"below-header-current-menu-text-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-current-menu-bg-color-responsive":{"desktop":"#575757","tablet":"","mobile":""},"below-header-submenu-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-submenu-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-submenu-bg-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-submenu-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-submenu-active-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-align":"inline","below-header-menu-align":"inline","primary-menu-bg-obj-responsive":{"desktop":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"}},"above-header-menu-bg-obj-responsive":{"desktop":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"}},"mobile-header-toggle-btn-style":"fill","sticky-header-color-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-color-site-tagline-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-color-h-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-bg-color-responsive":{"desktop":"rgba(255,255,255,1)","tablet":"","mobile":""},"sticky-header-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-menu-h-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-submenu-h-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-below-header-bg-color-responsive":{"desktop":"rgba(65,64,66,1)","tablet":"","mobile":""},"sticky-below-header-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-below-header-menu-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"sticky-below-header-menu-h-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"sticky-below-header-menu-h-a-bg-color-responsive":{"desktop":"#575757","tablet":"","mobile":""},"sticky-below-header-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-below-header-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-below-header-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-below-header-submenu-h-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-bg-color-responsive":{"desktop":"rgba(255,255,255,1)","tablet":"","mobile":""},"sticky-above-header-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-menu-h-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-submenu-h-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-h-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"different-sticky-retina-logo":false,"different-transparent-retina-logo":false,"different-retina-logo":"1","include-headings-in-typography":true,"above-header-submenu-border":{"top":"1","bottom":"1","left":"1","right":"1"},"above-header-submenu-item-border":1,"below-header-submenu-border":{"top":"1","bottom":"1","left":"1","right":"1"},"below-header-submenu-item-border":1,"above-nav-menu-pointer-effect":"none","below-nav-menu-pointer-effect":"none","above-header-submenu-border-color":"#eaeaea","below-header-submenu-container-animation":"","above-header-submenu-container-animation":"","primary-submenu-border":{"top":"1","bottom":"1","left":"1","right":"1"},"primary-submenu-item-border":1,"nav-menu-pointer-effect":"none","submenu-below-header":false,"primary-submenu-b-color":"#eaeaea","header-main-submenu-container-animation":"","above-header-submenu-item-b-color":"#eaeaea","primary-submenu-item-b-color":"#eaeaea","body-font-variant":"400","headings-font-variant":"700","transparent-header-enable":0,"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"logo-title-inline":0,"wc-header-cart-header-colors":false,"site-sidebar-width":24,"blog-single-meta":["date","author","comments"],"single-post-content-layout":"default","archive-post-content-layout":"boxed-container","shop-quick-view-stick-cart":true,"header-main-rt-section-button-text":"GIVE","header-main-rt-section-button-link":"#","header-main-rt-section-button-style":"custom-button","header-main-rt-section-button-text-color":"#ffffff","header-main-rt-section-button-back-color":"#ee0979","header-main-rt-section-button-padding":{"desktop":{"top":"10","right":"50","bottom":"10","left":"50"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"header-main-rt-section-button-border-size":{"top":"1","right":"1","bottom":"1","left":"1"},"header-main-rt-section-button-border-color":"#ee0979","header-main-rt-section-button-border-h-color":"#ff6a00","header-main-rt-section-button-border-radius":50},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/173/wxr.xml
+Inserted - Term 2 - {"term_id":2,"name":"page","slug":"page","term_group":0,"term_taxonomy_id":2,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 3 - {"term_id":3,"name":"section","slug":"section","term_group":0,"term_taxonomy_id":3,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 4 - {"term_id":4,"name":"Primary Menu","slug":"primary-menu","term_group":0,"term_taxonomy_id":4,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 21 - attachment - BG-Img-02-free-img
+Inserted - Post 22 - attachment - BG-Img-03-free-img
+Inserted - Post 23 - attachment - BG-Img-04-free-img
+Inserted - Post 25 - attachment - gallery-img-02-free-img
+Inserted - Post 27 - attachment - gallery-img-04-free-img
+Inserted - Post 28 - attachment - gallery-img-05-free-img
+Inserted - Post 31 - attachment - partners-logo-01
+Inserted - Post 32 - attachment - partners-logo-02
+Inserted - Post 33 - attachment - partners-logo-03
+Inserted - Post 34 - attachment - partners-logo-04
+Inserted - Post 35 - attachment - partners-logo-05
+Inserted - Post 37 - attachment - favicon-free-img
+Inserted - Post 66 - attachment - stories-img-01-free-img
+Inserted - Post 67 - attachment - stories-img-02-free-img
+Inserted - Post 68 - attachment - stories-img-03-free-img
+Inserted - Post 69 - attachment - stories-img-04-free-img
+Inserted - Post 70 - attachment - stories-img-05-free-img-06
+Inserted - Post 71 - attachment - stories-img-05-free-img
+Inserted - Post 73 - attachment - partners-logo-01-dark
+Inserted - Post 74 - attachment - partners-logo-02-dark
+Inserted - Post 75 - attachment - partners-logo-03-dark
+Inserted - Post 76 - attachment - partners-logo-04-dark
+Inserted - Post 77 - attachment - partners-logo-05-dark
+Inserted - Post 83 - attachment - BG-Img-06-free-img
+Inserted - Post 85 - attachment - BG-Img-08-free-img
+Inserted - Post 111 - attachment - logo-regular-free-img
+Inserted - Post 112 - attachment - logo-retina-free-img
+Inserted - Post 115 - attachment - partners-logo-07
+Inserted - Post 116 - attachment - partners-logo-06
+Inserted - Post 117 - attachment - BG-Img-09-free-img
+Inserted - Post 118 - attachment - gallery-img-06-free-img
+Inserted - Post 119 - attachment - gallery-img-07-free-img
+Inserted - Post 120 - attachment - gallery-img-08-free-img
+Inserted - Post 126 - attachment - cropped-favicon-free-img.png
+Inserted - Post 154 - attachment - about-img-01-free-img
+Inserted - Post 155 - attachment - about-img-02-free-img
+Inserted - Post 156 - attachment - BG-Img-01-free-img
+Inserted - Post 157 - attachment - BG-Img-05-free-img
+Inserted - Post 158 - attachment - BG-Img-07-free-img
+Inserted - Post 159 - attachment - gallery-img-01-free-img
+Inserted - Post 101 - give_forms - Make a gift today
+Inserted - Post 153 - give_payment - Harshad Dhale
+Inserted - Post 160 - attachment - gallery-img-03-free-img
+Inserted - Post 162 - attachment - demo-screenshot-free-img
+Inserted - Post 220 - attachment - bg02-free-img
+Inserted - Post 271 - attachment - back-free-img
+Inserted - Post 282 - attachment - back01-free-img
+Inserted - Post 308 - attachment - footer-free-img
+Inserted - Post 316 - attachment - kids1-free-img
+Inserted - Post 317 - attachment - charity02-free-img
+Inserted - Post 318 - attachment - charity03-free-img
+Inserted - Post 388 - attachment - kids02-free-img
+Inserted - Post 409 - attachment - kids05-free-img
+Inserted - Post 419 - attachment - kids04-free-img
+Inserted - Post 425 - attachment - kids06-free-img
+Inserted - Post 432 - attachment - back02-free-img
+Inserted - Post 434 - attachment - kids07-free-img
+Inserted - Post 435 - attachment - back03-free-img
+Inserted - Post 439 - attachment - kids08-free-img
+Inserted - Post 440 - attachment - back04-free-img
+Inserted - Post 163 - give_payment - hhjh jhg jkh
+Inserted - Post 164 - give_payment - vccx vcvcc
+Inserted - Post 166 - give_payment - fsd fdfsd
+Inserted - Post 478 - give_payment - j n
+Inserted - Post 481 - give_payment - a a
+Inserted - Post 482 - give_payment - Dee Prince
+Inserted - Post 483 - give_payment - Allingam asdf
+Inserted - Post 484 - give_payment - aayush jha
+Inserted - Post 485 - give_payment - jhjj nn
+Inserted - Post 487 - give_payment - fg gf
+Inserted - Post 488 - give_payment - Hashim Shaikh
+Inserted - Post 489 - give_payment - sdsa sdasd
+Inserted - Post 490 - give_payment - Mohammed Tayseer
+Inserted - Post 491 - give_payment - n b
+Inserted - Post 492 - give_payment - Dave Sanders
+Inserted - Post 493 - give_payment - апгнапнгап
+Inserted - Post 494 - give_payment - l def
+Inserted - Post 495 - give_payment - s n
+Inserted - Post 496 - give_payment - A M
+Inserted - Post 497 - give_payment - lk lk
+Inserted - Post 498 - give_payment - Kelsey Iverson
+Inserted - Post 499 - give_payment - ss ssss
+Inserted - Post 500 - give_payment - RAFAEL CARVALHO
+Inserted - Post 501 - give_payment - s s
+Inserted - Post 503 - give_payment - arun kumar
+Inserted - Post 504 - give_payment - adasdsa asdasdasd
+Inserted - Post 505 - give_payment - nnnnn hb n
+Inserted - Post 507 - give_payment - Clifford White
+Inserted - Post 508 - give_payment - Arunachalam Anantharaman
+Inserted - Post 509 - give_payment - k h
+Inserted - Post 510 - give_payment - rodrigo benitez
+Inserted - Post 511 - give_payment - asda adsasd
+Inserted - Post 512 - give_payment - mahmoud eid
+Inserted - Post 513 - give_payment - lawrance wilson
+Inserted - Post 514 - give_payment - Joe Smith
+Inserted - Post 515 - give_payment - raj ssdasd
+Inserted - Post 519 - give_payment - Kenney Erimakonosine
+Inserted - Post 520 - give_payment - a a
+Inserted - Post 521 - give_payment - anshul jain
+Inserted - Post 522 - give_payment - fsdf sfdsf
+Inserted - Post 523 - give_payment - abc def
+Inserted - Post 524 - give_payment - Louison Mbombo
+Inserted - Post 525 - give_payment - l
+Inserted - Post 526 - give_payment - hallo gakop
+Inserted - Post 527 - give_payment - vick puri
+Inserted - Post 528 - give_payment - ففف ااا
+Inserted - Post 529 - give_payment - gfjhhgc ghchcgh
+Inserted - Post 530 - give_payment - lok as
+Inserted - Post 531 - give_payment - nawed
+Inserted - Post 532 - give_payment - R r
+Inserted - Post 533 - give_payment - Timothy omamegbe
+Inserted - Post 534 - give_payment - nvj .nlb,
+Inserted - Post 535 - give_payment - fdsadf |dd
+Inserted - Post 536 - give_payment - asdf asdf
+Inserted - Post 537 - give_payment - Curvin Biscette
+Inserted - Post 538 - give_payment - Jose Gee
+Inserted - Post 539 - give_payment - a
+Inserted - Post 540 - give_payment - adsfds asdfas
+Inserted - Post 541 - give_payment - Pankaj Kapadiya
+Inserted - Post 542 - give_payment - Pankaj Kapadiya
+Inserted - Post 543 - give_payment - Ghv Cgg
+Inserted - Post 544 - give_payment - Imranww Ahmedww
+Inserted - Post 545 - give_payment - John Doe
+Inserted - Post 546 - give_payment - Srinath C
+Inserted - Post 547 - give_payment - sweet man
+Inserted - Post 548 - give_payment - Kenton King
+Inserted - Post 549 - give_payment - Aaron Schaum
+Inserted - Post 550 - give_payment - fdq ef
+Inserted - Post 553 - give_payment - lll lll
+Inserted - Post 554 - give_payment - Janine Grosenick
+Inserted - Post 555 - give_payment - shahin alam
+Inserted - Post 556 - give_payment - fds fsda
+Inserted - Post 557 - give_payment - mustapha shuaibu
+Inserted - Post 558 - give_payment - aad sadd
+Inserted - Post 559 - give_payment - Saadnan Rahman
+Inserted - Post 563 - give_payment - klajdsjkl jkljslkajklsjlk
+Inserted - Post 564 - give_payment - mbjn jhbhj
+Inserted - Post 565 - give_payment - fdsaf dafdsaf
+Inserted - Post 568 - give_payment - zzzzz zzzzz
+Inserted - Post 569 - give_payment - ad asd
+Inserted - Post 572 - give_payment - amomnbi emmanuel
+Inserted - Post 573 - give_payment - gitel Rosenzweig
+Inserted - Post 574 - give_payment - Mike Jones
+Inserted - Post 575 - give_payment - fd d
+Inserted - Post 576 - give_payment - Moshe Rosenzweig
+Inserted - Post 577 - give_payment - ajth prasad
+Inserted - Post 578 - give_payment - Emmanuel Ogbidi
+Inserted - Post 579 - give_payment - Luis Barrios
+Inserted - Post 580 - give_payment - Test Er
+Inserted - Post 581 - give_payment - jxksdkh
+Inserted - Post 582 - give_payment - Daniel daniels
+Inserted - Post 583 - give_payment - Doni Tata
+Inserted - Post 584 - give_payment - c c ccccccccv
+Inserted - Post 585 - give_payment - xcvxcvxcv xcvxcv
+Inserted - Post 586 - give_payment - f f
+Inserted - Post 587 - give_payment - Adedamola Okelola
+Inserted - Post 588 - give_payment - as asas
+Inserted - Post 589 - give_payment - rfe Ike-Ibekie
+Inserted - Post 590 - give_payment - zahed hoque
+Inserted - Post 591 - give_payment - dd dd
+Inserted - Post 592 - give_payment - ahmad khan
+Inserted - Post 593 - give_payment - chris nex
+Inserted - Post 594 - give_payment - maya ander
+Inserted - Post 595 - give_payment - Nafas Ihsan
+Inserted - Post 596 - give_payment - jinter warrick
+Inserted - Post 597 - give_payment - Oscar Martin
+Inserted - Post 598 - give_payment - rte
+Inserted - Post 599 - give_payment - a c
+Inserted - Post 600 - give_payment - Max Dedog
+Inserted - Post 602 - give_payment - rte
+Inserted - Post 603 - give_payment - euster mulilo
+Inserted - Post 604 - give_payment - b t
+Inserted - Post 605 - give_payment - asdsd sdsds
+Inserted - Post 606 - give_payment - a asd
+Inserted - Post 607 - give_payment - derer erer
+Inserted - Post 608 - give_payment - hhh ff
+Inserted - Post 610 - give_payment - P K
+Inserted - Post 611 - give_payment - xzczx zxczxczx
+Inserted - Post 612 - give_payment - Test W
+Inserted - Post 613 - give_payment - jose reyes
+Inserted - Post 614 - give_payment - Sagar Patil
+Inserted - Post 615 - give_payment - as Refai
+Inserted - Post 616 - give_payment - Emunot Daniel
+Inserted - Post 617 - give_payment - Sachin Diwakar
+Inserted - Post 618 - give_payment - Michelle Noel
+Inserted - Post 619 - give_payment - Muzammil Ahsan
+Inserted - Post 620 - give_payment - Ridyaman Roy
+Inserted - Post 621 - give_payment - kenneth simon
+Inserted - Post 622 - give_payment - Gurpreet Singh
+Inserted - Post 623 - give_payment - Kristen Jerry
+Inserted - Post 624 - give_payment - Nikolay Moiseenko
+Inserted - Post 625 - give_payment - qfagw gwgwgw
+Inserted - Post 626 - give_payment - gujh rout
+Inserted - Post 627 - give_payment - Antony
+Inserted - Post 628 - give_payment - fdsf dsf
+Inserted - Post 629 - give_payment - nel kaa
+Inserted - Post 630 - give_payment - Gontse Molefe
+Inserted - Post 631 - give_payment - Gontse Molefe
+Inserted - Post 632 - give_payment - test test
+Inserted - Post 633 - give_payment - STeve c
+Inserted - Post 634 - give_payment - test tes
+Inserted - Post 635 - give_payment - Felicia Holden
+Inserted - Post 636 - give_payment - Joseph Ero
+Inserted - Post 637 - give_payment - tony prince
+Inserted - Post 638 - give_payment - s s
+Inserted - Post 639 - give_payment - Deny Lauw
+Inserted - Post 640 - give_payment - kk kjj
+Inserted - Post 641 - give_payment - Prashant Kumar
+Inserted - Post 642 - give_payment - gdsgdsgsd
+Inserted - Post 643 - give_payment - steve bass
+Inserted - Post 644 - give_payment - ismail khan
+Inserted - Post 645 - give_payment - teste tets
+Inserted - Post 646 - give_payment - a b
+Inserted - Post 647 - give_payment - matheus gf
+Inserted - Post 648 - give_payment - h j
+Inserted - Post 649 - give_payment - Abhinay Guduri
+Inserted - Post 650 - give_payment - hhh jjj
+Inserted - Post 651 - give_payment - dfsdf
+Inserted - Post 652 - give_payment - aa a
+Inserted - Post 653 - give_payment - luis c
+Inserted - Post 654 - give_payment - Dixay Patel
+Inserted - Post 655 - give_payment - aaa aaa
+Inserted - Post 656 - give_payment - NFHFGF GHGF
+Inserted - Post 657 - give_payment - Praveen Gethsemane
+Inserted - Post 658 - give_payment - Fred Frodell
+Inserted - Post 659 - give_payment - sitti khadijah
+Inserted - Post 660 - give_payment - Mysson
+Inserted - Post 662 - give_payment - aahk asdjk
+Inserted - Post 663 - give_payment - HAMZA MOHAMMED SAID
+Inserted - Post 664 - give_payment - HAMZA MOHAMMED SAID
+Inserted - Post 665 - give_payment - Samuel Wasson
+Inserted - Post 666 - give_payment - Andrea Andrade
+Inserted - Post 667 - give_payment - dfsfd dsfds
+Inserted - Post 668 - give_payment - Øyvind Skjelstad
+Inserted - Post 669 - give_payment - Øyvind Skjelstad
+Inserted - Post 670 - give_payment - kjgkj lkn
+Inserted - Post 671 - give_payment - jb
+Inserted - Post 672 - give_payment - gamexpo mon
+Inserted - Post 673 - give_payment - gfdg grfg
+Inserted - Post 674 - give_payment - Md Monju
+Inserted - Post 675 - give_payment - dsda sadsa
+Inserted - Post 676 - give_payment - a x
+Inserted - Post 677 - give_payment - f f
+Inserted - Post 678 - give_payment - as Masood
+Inserted - Post 679 - give_payment - RAul Marques
+Inserted - Post 680 - give_payment - h j
+Inserted - Post 681 - give_payment - ggg ggg
+Inserted - Post 682 - give_payment - ken dicker
+Inserted - Post 683 - give_payment - Chung Teo
+Inserted - Post 684 - give_payment - Houu H
+Inserted - Post 685 - give_payment - opulence Etok
+Inserted - Post 686 - give_payment - Sheila Uzqueda
+Inserted - Post 687 - give_payment - rasheed ahmed
+Inserted - Post 688 - give_payment - Abdul Rehman Azeem
+Inserted - Post 689 - give_payment - hairu shaleh
+Inserted - Post 690 - give_payment - Janiell chirs Uy
+Inserted - Post 691 - give_payment - Nahshhaa Navahah
+Inserted - Post 692 - give_payment - Mishan Ashik
+Inserted - Post 693 - give_payment - Tste target
+Inserted - Post 694 - give_payment - hjvbkj vvj
+Inserted - Post 695 - page - HOME
+Inserted - Post 696 - page - WHO WE ARE
+Inserted - Post 697 - nav_menu_item - 
+Inserted - Post 698 - nav_menu_item - 
+Inserted - Post 699 - nav_menu_item - 
+Inserted - Post 700 - nav_menu_item - 
+Inserted - Post 701 - nav_menu_item - 
+Inserted - Post 133 - nav_menu_item - 
+Inserted - Post 480 - nav_menu_item - BLOG
+Inserted - Post 702 - give_payment - wewe ewerwerwer
+Inserted - Post 703 - give_payment - rajs sam
+Inserted - Post 704 - give_payment - hasan mahmud
+Inserted - Post 705 - give_payment - test test
+Inserted - Post 706 - give_payment - james born
+Inserted - Post 707 - give_payment - gg gg
+Inserted - Post 708 - give_payment - Nauman Shafiq
+Inserted - Post 709 - give_payment - fssf jhvjhd
+Inserted - Post 710 - give_payment - hap hsutngirjd
+Inserted - Post 711 - give_payment - broool asfadf
+Inserted - Post 712 - give_payment - Ibna Sina
+Inserted - Post 713 - page - WHAT WE DO
+Inserted - Post 714 - page - OUR PARTNERS
+Inserted - Post 715 - page - CONTACT US
+Inserted - Post 103 - page - DONATE
+Inserted - Post 168 - page - Blog
+Inserted - Post 287 - post - Client of the month &#8211; Tommys
+Inserted - Post 289 - post - Your Personal Leadership Brand
+Inserted - Post 298 - post - Flexible Working
+Inserted - Post 300 - post - North West Fundraising Forum
+Inserted - Post 390 - post - Coaching for Fundraisers
+Inserted - Post 391 - post - Diversity
+Inserted - Post 437 - post - Together at Christmas
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/charity-02\/wp-content\/uploads\/sites\/173\/2018\/02\/logo-regular-free-img.png","nav_menu_locations":{"primary":"primary-menu"},"show_on_front":"page","page_on_front":"HOME","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"siteorigin_widgets_active":null,"elementor_container_width":"1200","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":[],"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#ee0979","2":"#7a7a7a","3":"#ffffff","4":"#ffffff","5":"#ff6a00","6":"#ffffff","7":"#000000","8":"#ffffff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"10","elementor_stretched_section_container":"","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name 'dreamtouch' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 480
+Post ID: 133
+Post ID: 697
+Post ID: 698
+Post ID: 699
+Post ID: 700
+Post ID: 701
+Batch Process Complete!
